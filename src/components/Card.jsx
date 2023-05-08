@@ -71,4 +71,4 @@ const Card = () => {
 
 export default Card;
 
-//comments: add an image that correaltes with the weather. make it above the forecast in its own container but inside the citiesList Div. make a link/route for weekly forecast.
+//comments: add an image that correaltes with the weather. make it above the forecast in its own container but inside the citiesList Div. make a link/route for weekly forecast. or scratch the whole face and make one search bar that puts the query state into it and shows the whole day. with info on page, background img for enviro.
