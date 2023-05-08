@@ -70,3 +70,5 @@ const Card = () => {
 };
 
 export default Card;
+
+//comments: add an image that correaltes with the weather. make it above the forecast in its own container but inside the citiesList Div. make a link/route for weekly forecast.
